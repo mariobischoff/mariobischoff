@@ -4,7 +4,7 @@
 <h3> 😃💻 About Me </h3>
 
 - 💼 &nbsp; I’m currently working at Brazilian Air Force.
-- 🎓 &nbsp; Studying Computer Science
+- 🎓 &nbsp; Computer Science
 - 🔭 &nbsp; Trying to understand the web world.
 - 📈 &nbsp; I like to study IoT and finance.
 - 🏃‍♂️ &nbsp; Training to run a marathon.
