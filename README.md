@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS | Python | C
-- 🌐 &nbsp; Vue.js | React | React Native | HTML | CSS | JavaScript
+- 🌐 &nbsp; Vue.js | React | Flutter | React Native | HTML | CSS | JavaScript | TypeScript
 - 🛢 &nbsp; mongoDB | PostgreSQL | MySQL | Firebase
 - 🔧 &nbsp; Visual Studio code | Git | ArduinoIDE
 - 🖥 &nbsp; figma for everything xD
