@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Mario Bischoff. 🧛‍♂️
-<img align="right" alt="nodejs logo" src="https://github.com/mariobischoff/mariobischoff/blob/main/nodejs-logo.png?raw=true" width="400"/>
+<img align="right" alt="nodejs logo" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="400"/>
 
 <h3> 😃💻 About Me </h3>
 
