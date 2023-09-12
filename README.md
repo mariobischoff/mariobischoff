@@ -5,16 +5,16 @@
 
 - 💼 &nbsp; I’m currently working at Brazilian Air Force.
 - 🎓 &nbsp; Computer Scientist 
-- 🔭 &nbsp; Trying to understand the web world.
-- 📈 &nbsp; I like to study IoT and finance.
+- 🔭 &nbsp; Studying the financial market and applying programming for business solutions.
+- 📈 &nbsp; I like to study IoT and music.
 - 🏃‍♂️ &nbsp; Training to run a marathon.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | Python | C
-- 🌐 &nbsp; Vue.js | React | Flutter | React Native | HTML | CSS | JavaScript | TypeScript
-- 🛢 &nbsp; mongoDB | PostgreSQL | MySQL | Firebase
-- 🔧 &nbsp; Visual Studio code | Git | ArduinoIDE
+- 💻 &nbsp;  Python | C | NodeJS
+- 🌐 &nbsp; FastAPI | Flutter | MQL5 | Vue.js | React | HTML | CSS | JavaScript | TypeScript
+- 🛢 &nbsp; mongoDB | PostgreSQL | MySQL
+- 🔧 &nbsp; Visual Studio code | Jupyter Notebook | Git | ArduinoIDE
 - 🖥 &nbsp; figma for everything xD
 
 <br>
