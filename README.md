@@ -1,6 +1,4 @@
 <h2> Hey there! I'm Mario Bischoff. 🧛‍♂️
-<img align="right" alt="nodejs logo" src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="400"/>
-
 <h3> 😃💻 About Me </h3>
 
 - 💼 &nbsp; I’m currently working at Brazilian Air Force.
@@ -11,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Python | C | NodeJS
-- 🌐 &nbsp; FastAPI | Flutter | MQL5 | Vue.js | React | HTML | CSS | JavaScript | TypeScript
+- 💻 &nbsp;  Golang | Python | NodeJS
+- 🌐 &nbsp; Flutter | PostgreSQL | React | HTML | CSS | TypeScript
 - 🛢 &nbsp; mongoDB | PostgreSQL | MySQL
 - 🔧 &nbsp; Visual Studio code | Jupyter Notebook | Git | ArduinoIDE
 - 🖥 &nbsp; figma for everything xD
